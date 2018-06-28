@@ -456,7 +456,7 @@ div.cell.selected {
 }
 
 div.cell.selected .inner_cell {
-	border-right: 2px solid #CCC;
+	border-right: 6px solid #4286f4;
 	margin-right: -2px;
 }
 
